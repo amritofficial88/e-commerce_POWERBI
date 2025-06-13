@@ -1,4 +1,4 @@
-# E-Commerce Store Analysis
+# Retail Data Visualization Project (Power BI)
 
 ## Description:
 This repository showcases a Power BI dashboard built for an E-commerce store, aimed at answering key business and data-related questions. The analytical insights and findings generated from the dashboard are summarized in the ```results.txt file```. This project serves as a practical introduction for anyone looking to get started with data analysis using Power BI.
